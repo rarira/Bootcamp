@@ -1,0 +1,14 @@
+{
+  "name": "exerciseapp",
+  "version": "1.0.0",
+  "description": "excercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "rarira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
